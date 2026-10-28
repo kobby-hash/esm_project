@@ -24,3 +24,5 @@ const LogSomething = SetInterval(() => {
     console.log("we are done");
   }
 }, 1000);
+
+// this is what i want to do
