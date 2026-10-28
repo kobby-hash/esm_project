@@ -26,3 +26,4 @@ const LogSomething = SetInterval(() => {
 }, 1000);
 
 // this is what i want to do
+23;
